@@ -39,13 +39,16 @@ body{
     color: #ffff;
     padding: 20px 30px;
     border-radius: 10px;
-    margin-left: 40%;
+    margin-left: 42%;
     font-size: 20px;
 }
 
 .donate-today{
     margin-left: 20%;
     margin-right: 20%;
+    height: auto;
+    margin-top: 175px;
+    margin-bottom: 175px;
 }
 
 .donate-today h1{
@@ -77,4 +80,19 @@ body{
     border: 2px solid tomato;
     background-color: rgb(243, 225, 222);
     color: tomato;
+}
+
+.enter-amount input{
+    border: none;
+    padding: 30px;
+    width: 700px;
+    font-size: 25px;
+    margin-left: 200px;
+    text-align: center;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+#btn-two{
+    margin-left: 43%;
 }
