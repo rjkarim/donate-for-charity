@@ -39,7 +39,7 @@ body{
     color: #ffff;
     padding: 20px 30px;
     border-radius: 10px;
-    margin-left: 41%;
+    margin-left: 40%;
     font-size: 20px;
 }
 
@@ -87,12 +87,12 @@ body{
     padding: 30px;
     width: 700px;
     font-size: 25px;
-    margin-left: 200px;
+    margin-left: 16%;
     text-align: center;
     margin-bottom: 50px;
     cursor: pointer;
 }
 
 #btn-two{
-    margin-left: 43%;
+    margin-left: 41%;
 }
