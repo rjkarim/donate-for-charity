@@ -91,6 +91,7 @@ body{
     text-align: center;
     margin-bottom: 50px;
     cursor: pointer;
+    outline: none;
 }
 
 #btn-two{
@@ -211,3 +212,41 @@ body{
     position: absolute;
 }
 
+.letest-priject{
+    height: 700px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.letest-priject h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.letest-color{
+    color: tomato;
+}
+
+.letest-priject-item{
+    display: flex;
+}
+
+.letest-priject-item h2{
+    font-size: 25px;
+    text-align: center;
+}
+
+.letest-priject-item p{
+    text-align: justify;
+    padding: 20px;
+}
+
+.prokect-item-list{
+    width: 370px;
+    margin-left: 65px;
+    box-shadow: 2px 1px 15px 0px gainsboro;
+}
+
+.prokect-item-list img{
+    width: 100%;
+}
