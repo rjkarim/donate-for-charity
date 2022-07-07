@@ -242,6 +242,7 @@ body{
 }
 
 .prokect-item-list{
+    margin-top: 50px;
     width: 370px;
     margin-left: 65px;
     box-shadow: 2px 1px 15px 0px gainsboro;
