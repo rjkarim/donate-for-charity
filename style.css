@@ -96,3 +96,118 @@ body{
 #btn-two{
     margin-left: 41%;
 }
+
+.donate-plan{
+    height: auto;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 200px;
+}
+
+.donate-plan h1{
+    font-size:40px ;
+    text-align: center;
+}
+
+.donate-plan p{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 65px;
+    margin-top: 30px;
+}
+
+.donate-plan-item{
+    display: flex;
+}
+
+.donate-item-list{
+    background-color: bisque;
+    padding: 80px 30px;
+    margin-left: 50px;
+    width: 35%;
+    height: 350px;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 1px 15px 0px gainsboro;
+
+}
+
+.donate-item-list p{
+    text-align: left;
+}
+
+#item-two{
+    background-color: azure;
+}
+
+#item-three{
+    background-color: rgb(248, 243, 167);
+}
+
+.footer{
+    background-color: rgb(38, 38, 38);
+    height: 235px;
+    padding-top: 30px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.footer h2{
+    color: tomato;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Oleo Script', cursive;
+
+}
+
+.footer p{
+    color: aliceblue;
+    text-align: center;
+
+}
+
+#design-by{
+    margin-top: 50px;
+}
+
+.email-subscription{
+    height: 350px;
+}
+
+.email-subscription h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.email-subscription p{
+    font-size: 18px;
+    text-align: center;
+    font-weight:bold;
+    margin-bottom: 60px;
+}
+
+.subscribe-feild{
+    margin-left: 37%;
+}
+
+.subscribe-feild input{
+    padding: 18px;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(226, 223, 223);
+    width: 300px;
+    outline:none;
+}
+
+.subscribe-feild button{
+    padding: 19px;
+    border:none;
+    background-color: tomato;
+    color: aliceblue;
+    font-size: 18px;
+    box-shadow: 2px 1px 15px 0px gainsboro;
+    margin-right: 20px;
+    position: absolute;
+}
+
